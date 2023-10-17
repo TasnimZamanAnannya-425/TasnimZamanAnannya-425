@@ -1,5 +1,7 @@
+[![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Tasnim Zaman</h1>
 <h3 align="center">A passionate frontend developer from Dhaka</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966&tbnid=tkD88475CNPNmM&vet=12ahUKEwia-cLFxf2BAxUK5jgGHZW8DO8QMygGegQIARBX..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fsalakhas%2Fsalakhas&docid=wTUM6roKNfxDKM&w=800&h=600&q=animated%20gif%20female%20git%20profile%20picture&ved=2ahUKEwia-cLFxf2BAxUK5jgGHZW8DO8QMygGegQIARBX">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnimzamananannya-425&label=Profile%20views&color=0e75b6&style=flat" alt="tasnimzamananannya-425" /> </p>
 
