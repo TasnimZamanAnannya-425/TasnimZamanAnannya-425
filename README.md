@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Tasnim Zaman</h1>
-<h3 align="center">A passionate frontend developer from Dhaka</h3>
+<h3 align="center">A passionate frontend developer from Dhaka,Bangladesh</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnimzamananannya-425&label=Profile%20views&color=0e75b6&style=flat" alt="tasnimzamananannya-425" /> </p>
